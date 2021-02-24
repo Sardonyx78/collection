@@ -1,0 +1,15 @@
+src
+docs
+.github
+test
+.eslintrc.json
+.gitattributes
+.gitignore
+.prettierrc.json
+babel.config.json
+jest.config.js
+jsdoc.json
+README.md
+tsconfig.json
+tsconfig.jest.json
+tsconfig.eslint.json
